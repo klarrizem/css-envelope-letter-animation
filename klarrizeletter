@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> HAYY </title>
+  <style>
+    body {
+      font-family: Times New Roman, Times New Roman;
+      background-color: #F7A8C4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      border: 2px solid #ccc; /* Added border */
+    }
+    h1 {
+      color: #B03052; /* Tomato */
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    .emoji {
+      font-size: 18px;
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>HI  </h1>
+  <p>Dear Daeniel,</p>
+  <p>Sorry kung hindi ako sumipot nung araw na ililibre ko kayo ni mary grace bigla kasi ako nilagnat nung araw na yon </p>
+  <p>Sorry kung di kita kinakausap sa school natatakot kasi ako baka kung ano yung sabihin saakin ni mary grace kahit mag sorry ako sa personal.</p>
+  <p>Sana pansinin mo pa din ako sa school kahit may nagawa akong kasalanan</p>
+  <p>Muli, talagang ikinalulungkot ko ang aking mga aksyon, at umaasa ako na maaari tayong sumulong mula sa karanasang ito nang may pag-unawa at pagpapatawad.</p>
+  <p>Salamat sa paglalaan ng oras upang basahin ang liham na ito. Pinahahalagahan ko ang iyong pasensya at pag-unawa.</p>
+  <p>Sincerely,</p>
+  <p>Justine</p>
+  
+</div>
+
+</body>
+</html>
